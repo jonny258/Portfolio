@@ -1,0 +1,56 @@
+#sideBarButton{
+    width: 10px;
+    height:275px;
+    background-color: black;
+    margin-right: 3px;
+}
+header{
+    border-bottom: black solid 5px;
+}
+
+.profile{
+
+}
+.profile h2{
+    text-align: center;
+}
+
+.profile img{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.aboutMe{
+
+}
+
+.socials{
+    
+}
+
+.pageLinks{
+    text-align: center;
+    position: absolute;
+    bottom: 30px;
+}
+
+.pageLinks a{
+    margin: 10px;
+    background-color: black;
+    padding:5px;
+    border: 3px solid black;
+    border-radius: 5px;
+    color:white;
+}
+
+.skills{
+    padding-top: 50px;
+    justify-content: center;
+    text-align: center;
+}
+.skills i{
+    margin-bottom: 5px;
+}
+
+
+
